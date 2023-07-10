@@ -1689,17 +1689,17 @@
 		//{"name":"Json并发","type":2,"url":"Parallel"},
 		//{"name":"Json轮询","type":2,"url":"Sequence"},
 		{
-			"name": "-香-",
+			"name": "-1-",
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
 		},
 		{
-			"name": "-雅-",
+			"name": "-2-",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url="
 		},
 		{
-			"name": "-情-",
+			"name": "-3-",
 			"type": 0,
 			"url": "https://jx.bozrc.com:4433/player/?url=",
 			"ext": {
@@ -1707,31 +1707,31 @@
 			}
 		},
 		{
-			"name": "-免-",
+			"name": "-4-",
 			"type": 0,
-			"url": "https://www.yemu.xyz/?url=",
+			"url": "https://chaxun.truechat365.com/?url=",
 			"parse": "0",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 			}
 		},
 		{
-			"name": "-费-",
+			"name": "-5-",
 			"type": 0,
 			"url": "https://jx.yparse.com/index.php?url="
 		},
 		{
-			"name": "-分-",
+			"name": "-6-",
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url="
 		},
 		{
-			"name": "-享-",
+			"name": "-7-",
 			"type": 0,
 			"url": "https://jx.aidouer.net/?url="
 		},
 		{
-			"name": "-🌷-",
+			"name": "-8-",
 			"type": 0,
 			"url": "https://jx.quankan.app/?url="
 		}
