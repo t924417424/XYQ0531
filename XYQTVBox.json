@@ -898,6 +898,16 @@
 				"ext": "./XYQHiker/AB影院.json"
 			},
 			{
+				"key": "csp_XYQBiu_AB影院",
+				"name": "AB影院✈️(XYQB)",
+				"type": 3,
+				"api": "csp_XYQBiu",
+				"searchable": 1,
+				"quickSearch": 1,
+				"filterable": 1,
+				"ext": "./XYQBiu/AB影院.json"
+			},
+			{
 				"key": "csp_XYQHiker_魔戒影院",
 				"name": "魔戒影院(XYQH)",
 				"type": 3,
