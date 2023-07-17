@@ -1232,16 +1232,6 @@
 				"ext": "./XYQHiker/无插件直播.json"
 			},
 			{
-				"key": "csp_XYQBiu_磁力熊",
-				"name": "💿磁力熊(XYQ)",
-				"type": 3,
-				"api": "csp_XYQBiu",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQBiu/磁力熊.json"
-			},
-			{
 				"key": "csp_XYQBiu_神马",
 				"name": "🐴神马影院(XYQ)",
 				"type": 3,
