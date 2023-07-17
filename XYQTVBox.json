@@ -798,46 +798,6 @@
 				"ext": "./XYQHiker/饭团影视.json"
 			},
 			{
-				"key": "csp_XYQHiker_布蕾蓝光影城",
-				"name": "布蕾蓝光影城(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/布蕾蓝光影城.json"
-			},
-			{
-				"key": "csp_XYQHiker_看看电影",
-				"name": "看看电影(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/看看电影.json"
-			},
-			{
-				"key": "csp_XYQHiker_秋霞电影",
-				"name": "秋霞电影(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/秋霞电影.json"
-			},
-			{
-				"key": "csp_XYQHiker_秋霞电影网",
-				"name": "🦞秋霞电影网(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/秋霞电影网.json"
-			},
-			{
 				"key": "csp_XYQHiker_乐猪影视",
 				"name": "🐷乐猪影视(XYQH)",
 				"type": 3,
@@ -868,16 +828,6 @@
 				"ext": "./XYQHiker/HDmoli.json"
 			},
 			{
-				"key": "csp_XYQHiker_无名小站",
-				"name": "无名小站(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/无名小站.json"
-			},
-			{
 				"key": "csp_XYQHiker_独播库",
 				"name": "独播库(XYQH)",
 				"type": 3,
@@ -886,36 +836,6 @@
 				"quickSearch": 1,
 				"filterable": 1,
 				"ext": "./XYQHiker/独播库.json"
-			},
-			{
-				"key": "csp_XYQHiker_AB影院",
-				"name": "AB影院✈️(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/AB影院.json"
-			},
-			{
-				"key": "csp_XYQBiu_AB影院",
-				"name": "AB影院✈️(XYQB)",
-				"type": 3,
-				"api": "csp_XYQBiu",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQBiu/AB影院.json"
-			},
-			{
-				"key": "csp_XYQHiker_魔戒影院",
-				"name": "魔戒影院(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/魔戒影院.json"
 			},
 			{
 				"key": "csp_XYQHiker_voflix HD",
@@ -938,16 +858,6 @@
 				"ext": "./XYQHiker/奈飞中文.json"
 			},
 			{
-				"key": "csp_XYQHiker_鸭奈飞影视",
-				"name": "🦆鸭奈飞影视(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/鸭奈飞影视.json"
-			},
-			{
 				"key": "csp_XYQHiker_蓝光影院",
 				"name": "蓝光影院(XYQH)",
 				"type": 3,
@@ -956,16 +866,6 @@
 				"quickSearch": 1,
 				"filterable": 1,
 				"ext": "./XYQHiker/蓝光影院.json"
-			},
-			{
-				"key": "csp_XYQHiker_影视工场",
-				"name": "影视工场(XYQH)",
-				"type": 3,
-				"api": "csp_XYQHiker",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "./XYQHiker/影视工场.json"
 			},
 			{
 				"key": "csp_XYQHiker_影渣渣影视",
