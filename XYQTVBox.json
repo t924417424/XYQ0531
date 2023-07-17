@@ -1249,7 +1249,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"ext": "./XYQBiu/骚火电影网.json"
+				"ext": "./XYQBiu/骚火电影网.json.hide"
 			},
 			{
 				"key": "csp_XYQBiu_骚火电影VIP",
@@ -1259,7 +1259,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"ext": "./XYQBiu/骚火电影VIP.json"
+				"ext": "./XYQBiu/骚火电影VIP.json.hide"
 			},
 			{
 				"key": "csp_XYQBiu_Auete影视",
